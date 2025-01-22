@@ -1,4 +1,4 @@
-<h1 style="text-align:center">TOT</h1>
+<h1 align="center">TOT</h1>
 
 ### 关于 ###
 
