@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/tot.jpg" width="300" height="170">
+    <img src="./assets/tot.png" width="300" height="170">
     </p>
 
 <h1 align="center">TOT</h1>
